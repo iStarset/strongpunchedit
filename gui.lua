@@ -237,7 +237,7 @@ local function FKLH_fake_script() -- main.autofarm
 						obj = "0.30000001192093"
 					end
 					game.Players.LocalPlayer.Character.HumanoidRootPart.CFrame = v[obj].CFrame
-					wait(0.2)
+					wait(0.35)
 				end
 				wait(1)
 			end
